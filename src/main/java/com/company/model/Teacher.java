@@ -1,2 +1,4 @@
-package com.company.model;public class Teacher {
+package com.company.model;
+
+public class Teacher {
 }

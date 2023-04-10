@@ -1,2 +1,4 @@
-package com.company.confic;public class DBConnection {
+package com.company.confic;
+
+public class DBConnection {
 }
